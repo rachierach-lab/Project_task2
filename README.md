@@ -56,7 +56,7 @@ GET http://localhost:8080/products
 ```
 Response: `200 OK` – paginated list of all products.
 
-![Get All Products](images/get-products.PNG)
+![Get All Products](images/get-products.png.PNG)
 
 ---
 
